@@ -54,4 +54,4 @@ $ npm run test:cov
 ```
 
 ## Resources
-
+complete
