@@ -2,19 +2,19 @@
 
 ## Description
 
-NestJs project for book api using graphql with apollo server for following operation
-We follo the code first approach to build graphql API
-# show data
-# add data
-# update data
-# delete data
-# find data by id
+### NestJs project for book api using graphql with apollo server for following operation
+### We follo the code first approach to build graphql API
+#### show data
+#### add data
+#### update data
+#### delete data
+#### find data by id
 
-We build following features of graphql
-# Query
-# Mutation
-# Ressolver
-# Input Arguments
+### We build following features of graphql
+#### Query
+#### Mutation
+#### Ressolver
+#### Input Arguments
 
 
 ## Project Url
